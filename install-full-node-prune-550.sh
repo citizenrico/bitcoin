@@ -505,7 +505,7 @@ listen=1
 port=$PORT
 maxconnections=64
 
-prune=50000
+prune=550
 minrelaytxfee=0.00005
 limitfreerelay=0
 dbcache=50
