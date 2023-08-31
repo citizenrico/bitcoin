@@ -49,7 +49,7 @@
 REPO_URL="https://github.com/bitcoin/bitcoin.git"
 
 # See https://github.com/bitcoin/bitcoin/tags for latest version.
-VERSION=23.0
+VERSION=22.0
 
 TARGET_DIR=$HOME/bitcoin-core
 PORT=8333
